@@ -4,3 +4,4 @@
 
 $var = "asdasd";
 &var ="werewr"
+    $v="test";
